@@ -1,9 +1,9 @@
 export const theme = {
   colors: {
     heading: 'black',
-    text: 'grey',
-    button: 'rgb(134, 203, 200)',
-    buttonHover: 'rgb(157, 222, 219)',
+    text: 'black',
+    button: 'rgb(128, 128, 128)',
+    buttonHover: 'rgb(0, 180, 0)',
   },
   typography: {
     heading: '40px',

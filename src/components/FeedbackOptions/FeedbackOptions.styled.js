@@ -7,9 +7,9 @@ export const Button = styled.button`
   padding-right: ${theme.space.secondary * 3}px;
   font-size: ${theme.typography.text};
   cursor: pointer;
-  box-shadow: 1px 3px 5px ${theme.colors.button};
+  box-shadow: 1px 3px 3px ${theme.colors.button};
   border: none;
-  border-radius: 5px;
+  border-radius: 3px;
   background-color: ${theme.colors.button};
   &:hover,
   &:focus {
